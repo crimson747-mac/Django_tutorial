@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/crimson747/.local/share/virtualenvs/Django_tutorial-2833A_BP/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black"
+}
